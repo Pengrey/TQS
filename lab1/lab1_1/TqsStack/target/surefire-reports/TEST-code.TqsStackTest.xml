@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="code.TqsStackTest" time="0.039" tests="9" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/home/pengrey/Work/UA/TQS/tqs_98475/lab1/lab1_1/TqsStack/target/test-classes:/home/pengrey/Work/UA/TQS/tqs_98475/lab1/lab1_1/TqsStack/target/classes:/home/pengrey/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar:/home/pengrey/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/pengrey/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar:/home/pengrey/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/pengrey/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.8.2/junit-jupiter-params-5.8.2.jar:/home/pengrey/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar:/home/pengrey/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar:"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
+    <property name="os.name" value="Linux"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-17-openjdk/lib"/>
+    <property name="sun.java.command" value="/home/pengrey/Work/UA/TQS/tqs_98475/lab1/lab1_1/TqsStack/target/surefire/surefirebooter10444871283565346521.jar /home/pengrey/Work/UA/TQS/tqs_98475/lab1/lab1_1/TqsStack/target/surefire 2022-03-11T10-01-43_808-jvmRun1 surefire10529379829973606791tmp surefire_09425650246580945193tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="/home/pengrey/Work/UA/TQS/tqs_98475/lab1/lab1_1/TqsStack/target/test-classes:/home/pengrey/Work/UA/TQS/tqs_98475/lab1/lab1_1/TqsStack/target/classes:/home/pengrey/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar:/home/pengrey/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/pengrey/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar:/home/pengrey/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/pengrey/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.8.2/junit-jupiter-params-5.8.2.jar:/home/pengrey/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar:/home/pengrey/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/home/pengrey"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-04-19"/>
+    <property name="java.home" value="/usr/lib/jvm/java-17-openjdk"/>
+    <property name="file.separator" value="/"/>
+    <property name="basedir" value="/home/pengrey/Work/UA/TQS/tqs_98475/lab1/lab1_1/TqsStack"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="/home/pengrey/Work/UA/TQS/tqs_98475/lab1/lab1_1/TqsStack/target/surefire/surefirebooter10444871283565346521.jar"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.3+3"/>
+    <property name="user.name" value="pengrey"/>
+    <property name="path.separator" value=":"/>
+    <property name="os.version" value="5.16.13-arch1-1"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="/home/pengrey/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="java.version" value="17.0.3"/>
+    <property name="user.dir" value="/home/pengrey/Work/UA/TQS/tqs_98475/lab1/lab1_1/TqsStack"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="native.encoding" value="UTF-8"/>
+    <property name="java.library.path" value="/usr/java/packages/lib:/usr/lib64:/lib64:/lib:/usr/lib"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="N/A"/>
+    <property name="java.vm.version" value="17.0.3+3"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="NPushes" classname="code.TqsStackTest" time="0.02"/>
+  <testcase name="push_and_pop" classname="code.TqsStackTest" time="0"/>
+  <testcase name="push_and_peek" classname="code.TqsStackTest" time="0.001"/>
+  <testcase name="nPops" classname="code.TqsStackTest" time="0.002"/>
+  <testcase name="TqsStackSizeZero" classname="code.TqsStackTest" time="0.001"/>
+  <testcase name="popEmpty" classname="code.TqsStackTest" time="0.002"/>
+  <testcase name="pushFull" classname="code.TqsStackTest" time="0.001"/>
+  <testcase name="peekEmpty" classname="code.TqsStackTest" time="0.001"/>
+  <testcase name="TqsStackEmpty" classname="code.TqsStackTest" time="0.001"/>
+</testsuite>

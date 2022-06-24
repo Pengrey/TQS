@@ -1,0 +1,7 @@
+code/NoValidAddress.class
+code/AddressResolver.class
+code/TqsBasicHttpClient.class
+code/ISimpleHttpClient.class
+code/ConfigUtils.class
+code/Address.class
+code/MainGeocode.class

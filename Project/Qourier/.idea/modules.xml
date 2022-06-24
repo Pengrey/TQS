@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Qourier.iml" filepath="$PROJECT_DIR$/.idea/Qourier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qourier_app/qourier_app.iml" filepath="$PROJECT_DIR$/qourier_app/qourier_app.iml" />
+    </modules>
+  </component>
+</project>
